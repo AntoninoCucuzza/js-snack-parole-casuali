@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.bg_secondary {
+  background-color: #343434;
+}
+
+.text_white {
+  color: #fff;
+}
+
+.min_vh_100 {
+  min-height: 100vh;
+}
+
+.container {
+  width: 80%;
+  max-width: 1080px;
+  margin: 0 auto;
+  padding-top: 3rem;
+}
